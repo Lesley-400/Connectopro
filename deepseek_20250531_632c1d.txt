@@ -1,0 +1,7 @@
+connectopro/
+├── index.html
+├── styles.css
+├── script.js
+└── assets/
+    ├── images/
+    └── icons/
